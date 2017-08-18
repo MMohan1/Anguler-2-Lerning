@@ -6,3 +6,4 @@ Using the Template (Use Angular 2.2 Template)
 - Navigate to the Template folder.
 - Run 'npm install' on command line.
 - Run 'npm start' on command line.
+# Anguler-2-Lerning
